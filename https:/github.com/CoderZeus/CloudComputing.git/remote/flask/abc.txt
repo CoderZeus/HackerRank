@@ -1,0 +1,3 @@
+export FLASK_APP=integration.py
+export FLASK_ENV=development
+

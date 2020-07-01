@@ -1,0 +1,7 @@
+kind: Cluster
+apiVersion: kind.x-k8s.io/v1alpha4
+nodes:
+- role: control-plane
+  image: sharathkurian/fit5525@sha256:cc8813d9fa47586053633dd6c9e291381767e7ec96b264a2bac5c4af18ddc712
+- role: worker
+  image: sharathkurian/fit5525@sha256:cc8813d9fa47586053633dd6c9e291381767e7ec96b264a2bac5c4af18ddc712

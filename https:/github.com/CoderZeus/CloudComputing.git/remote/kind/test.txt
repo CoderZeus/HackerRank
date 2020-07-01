@@ -1,0 +1,2 @@
+docker tag local-image:fit5225 new-repo:fit5225
+docker push new-repo:fit5225
