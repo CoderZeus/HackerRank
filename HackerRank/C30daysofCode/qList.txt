@@ -2,5 +2,9 @@ q1
 q2
 q3
 q4
-q5 https://www.hackerrank.com/challenges/30-class-vs-instance/problem
-q6 https://www.hackerrank.com/challenges/30-loops/problem
+q5  https://www.hackerrank.com/challenges/30-class-vs-instance/problem
+q6  https://www.hackerrank.com/challenges/30-loops/problem
+q7  https://www.hackerrank.com/challenges/30-review-loop/problem
+q8  https://www.hackerrank.com/challenges/30-arrays/problem
+q9  https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem
+q10 
