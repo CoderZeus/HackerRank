@@ -7,4 +7,14 @@ q6  https://www.hackerrank.com/challenges/30-loops/problem
 q7  https://www.hackerrank.com/challenges/30-review-loop/problem
 q8  https://www.hackerrank.com/challenges/30-arrays/problem
 q9  https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem
-q10 
+q10 https://www.hackerrank.com/challenges/30-recursion/problem
+q11 https://www.hackerrank.com/challenges/30-binary-numbers/problem
+q12 https://www.hackerrank.com/challenges/30-2d-arrays/problem
+q13 https://www.hackerrank.com/challenges/30-inheritance/problem
+q14 https://www.hackerrank.com/challenges/30-abstract-classes/problem
+q15 https://www.hackerrank.com/challenges/30-scope/problem
+q16 https://www.hackerrank.com/challenges/30-linked-list/problem
+q17 https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem
+q18
+q19
+q20
